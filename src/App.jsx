@@ -1,13 +1,13 @@
 import Header from "./Header";
-import Technologies from "./Technologies";
+import Message from "./Technologies";
 
 const App = () => {
     return (
         <div>
             <Header />
-            <Technologies />
+            <Message />
         </div>
     )
 }
-
+// Поехали
 export default App;
