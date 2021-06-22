@@ -4,7 +4,7 @@ const ProfileInfo = () => {
     return (
         <div>
             <div>
-                <img src="https://media.licdn.cn/dms/image/C4D1BAQHt5jcoqtEWIg/company-background_10000/0/1617264177780?e=2159024400&v=beta&t=T2fcYwGlPmcbM1ihTzLW57yZneMMYe34tRAWjYnU3wY" alt=""/>
+                <img src="https://ansunibaate.com/wp-content/uploads/2019/04/Baby-Lion-Wallpaper-30535.jpg" alt=""/>
             </div>
             <div className={classes.discriptionDlock}>
                 ava + description
