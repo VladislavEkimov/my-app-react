@@ -3,7 +3,7 @@ import classes from "./News.module.css";
 const News = (props) => {
     return (
         <div>
-            Dialogs
+            News
         </div>
     )
 }
